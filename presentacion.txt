@@ -1,0 +1,4 @@
+Hola, soy estudiante de 1.º DAM o DAW.
+Estoy aprendiendo Git
+
+Git me permite guardar diferentes versiones de mis archivos.
